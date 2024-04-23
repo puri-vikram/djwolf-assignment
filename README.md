@@ -19,8 +19,10 @@ Download pdf and send email api:
 
   Mongo Json Data To import:
   
+  
   name: local.invoices.json
-      [{
+
+    [{
       "_id": {
         "$oid": "6627ae957fa72141028343c4"
       },
@@ -35,9 +37,8 @@ Download pdf and send email api:
       "__v": 0
     }]
 
-
   name: local.users.json
-
+    
     [{
     "_id": {
       "$oid": "6627808469b2cc904e8dd25d"
